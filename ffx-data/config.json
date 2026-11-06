@@ -1,0 +1,20 @@
+{
+  "logo": null,
+  "ffBanner": null,
+  "ffPackages": null,
+  "banners": null,
+  "quick": [
+    {
+      "label": "Abbas",
+      "url": ""
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ]
+}
